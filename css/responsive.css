@@ -1,0 +1,548 @@
+@media screen and (max-width: 1199px) {
+	
+	.form_haed_search .form-control{
+		max-width: 200px;
+	}
+	.main_menu li > a{
+		font-size: 16px;
+		padding: 30px 10px 30px 30px;
+	}
+	.mn_icon{
+		left: 5px;
+		background-size: 15px;
+	}
+	.itm_menu{
+		font-size: 16px;
+		height: 105px;
+	}
+	.item_slide{
+		height: 420px;
+	}
+	.cption_txt_home h2{
+		font-size: 22px;
+	}
+	.about_txt_cn h2{
+		font-size: 28px;
+	}
+	.head_content h2{
+		font-size: 38px;
+	}
+	.service_item_box{
+		padding-left: 200px;
+	}
+	.service_thumb{
+		width: 200px;
+	}
+	.mthumb_ht1 {
+	    height: 230px;
+	}
+	.mthumb_ht2 {
+	    height: 500px;
+	}
+	.news_cption > h2{
+		font-size: 20px;
+	}
+	.join_cp_txt h2{
+		font-size: 28px;
+	}
+}
+@media screen and (max-width: 991px) {
+	.main_menu{
+		display: none;
+	}
+	.middle_tHead{
+		display: none;
+	}
+	.head_info{
+		display: none;
+	}
+	.head_social{
+		display: none;
+	}
+	.block_section_home .row > div.col-lg-5 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}
+	.block_section_home .row > div.col-lg-7 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}
+	.cption_txt_home h2{
+		height: auto;
+	}
+	#home_slider .owl-nav{
+		display: none !important;
+	}
+	#home_slider .owl-dots{
+		display: block !important;
+	}
+	.cption_txt_home{
+		padding-bottom: 50px;
+	}
+	.about_txt_cn h2{
+		font-size: 22px;
+	}
+	.head_content h2{
+		font-size: 34px;
+	}
+	.service_item_box {
+	    padding-left: 150px;
+	}
+	.service_thumb{
+		width: 150px;
+	}
+	.service_txt h2{
+		font-size: 16px;
+	}
+	.media_thumb{
+		height: 200px;
+	}
+	.mthumb_ht1 {
+	    height: 180px;
+	}
+	.mthumb_ht2 {
+	    height: 400px;
+	}
+	.copy_right{
+		text-align: center;
+		margin-top: 20px;
+	}
+	.fbox_head > h2{
+		font-size: 22px;
+	}
+	.bottom_head,.top_head{
+		padding: 15px 0;
+	}
+	.bottom_head .book_head{
+		margin: 0;
+	}
+	.bottom_head .head_social{
+		display: block;
+		margin-top: 0;
+	}
+	.btn_call{
+		display: inline-block;
+		margin-left: 10px;
+	}
+	.show_mobile{
+		display: flex !important;
+	}
+	.btn_menu_mobile{
+		display:inline-block;
+	}
+	.btns_head_action{
+		display: flex !important;
+	}
+	.headBanner_inner{
+		padding: 100px 0;
+	}
+	.headBanner_inner .breadcrumb{
+		bottom: 40px;
+	}
+	.headBanner_txt h2{
+		font-size: 28px;
+	}
+	.about_menu{
+		display: none;
+	}
+	.block_about_menu{
+		padding: 12px 0;
+	}
+	.bbk_head h2,.bk_nrmTxt h2,.title_bhd h2{
+		font-size: 26px;
+	}
+	.vission_head > p{
+		font-size: 20px;
+	}
+	.block_about_menu .menu-trigger-product{
+		display: block;
+	}
+	.box_search_inner{
+		margin-top: -70px;
+	}
+	.box_professional_cv{
+		margin-top: 20px;
+	}
+	.news_cption > h2{
+		font-size: 18px;
+	}
+	.puplish_nws{
+		font-size: 14px;
+	}
+	.details_news_post h2{
+		font-size: 24px;
+	}
+	.join_cp_txt h2{
+		font-size: 26px;
+	}
+	.medical_serv_txt h2{
+		font-size: 24px;
+	}
+	.patient_details h2{
+		font-size: 24px;
+	}
+	.b_information_head h2{
+		font-size: 24px;
+	}
+	.b_information_head p{
+		font-size: 16px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.top_head{
+		padding: 20px 0;
+	}
+	.about_txt_cn p{
+		height: auto;
+	}
+	.about_txt_cn h2{
+		font-size: 20px;
+	}
+	.block_section_about,.block_find_doctor{
+		padding: 50px 0;
+	}
+	.head_content h2 {
+	    font-size: 28px;
+	}
+	.service_txt h2{
+		height: auto;
+	}
+	.service_txt p{
+		font-size: 15px;
+	}
+	.service_item_box {
+	    padding-left: 200px;
+	}
+	.service_thumb{
+		width: 200px;
+	}
+	.mthumb_ht1,.mthumb_ht2{
+		height: auto;
+	}
+	.box_book_txt{
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.box_book_txt h2{
+		font-size: 24px;
+	}
+	.fbox_head > h2{
+		font-size: 20px;
+	}
+	.f_box{
+		margin-bottom: 30px;
+	}
+	.copy_right{
+		margin-top: 0;
+	}
+	.headBanner_inner {
+	    padding: 70px 0;
+	}
+	.headBanner_txt h2{
+		font-size: 22px;
+	}
+	.bbk_head h2,.bk_nrmTxt h2,.title_bhd h2{
+		font-size: 24px;
+	}
+	.vission_head > p{
+		font-size: 20px;
+	}
+	.prif_title > h2,.box_doctor_subPrif h2,.head_title_cv h2{
+		font-size: 20px;
+	}
+	.details_news_post h2{
+		font-size: 22px;
+	}
+	.mn_thumb_post{
+		float: none;
+		width: 100%;
+		margin: 0 0 30px;
+	}
+	.box_share_post h3{
+		font-size: 18px;
+	}
+	.details_news_post h2{
+		margin-bottom: 20px;
+	}
+	#googleMap{
+		height: 400px;
+	}
+	.block_map{
+		margin-top: 20px;
+	}
+	.join_cp_txt h2{
+		font-size: 24px;
+	}
+	.back_page{
+		margin-top: 0;
+	}
+	.medical_serv_txt h2{
+		font-size: 22px;
+	}
+	.patient_details h2{
+		font-size: 22px;
+	}
+	.img_patient > img{
+		height: auto;
+	}
+	.b_information_head h2{
+		font-size: 22px;
+	}
+	.b_information_head{
+		margin-bottom: 20px;
+	}
+	.box_blue_information{
+		padding: 30px 20px;
+	}
+}
+@media screen and (max-width: 575px) {
+	.item_slide {
+	    height: 250px;
+	}
+	.cption_txt_home{
+		padding: 20px 15px 50px;
+	}
+	.cption_txt_home h2 {
+	    font-size: 17px;
+	}
+	.mm_icon{
+		width: 20px;
+	}
+	.itm_menu{
+		height: auto;
+		padding: 25px 15px 25px 30px;
+		font-size: 14px;
+		
+	}
+	.mm_icon{
+		left: 10px;
+	}
+	.mm_icon{
+		width: 15px;
+	}
+	.mm_txt{
+		line-height: 20px;
+		white-space: nowrap;
+		overflow: hidden;
+		width: 100%;
+		height: 20px;
+	}
+	.itm_menu:before{
+		display: none;
+	}
+	.top_head{
+		padding: 15px 0;
+	}
+	.cption_txt_home p{
+		display: none;
+	}
+	.about_txt_cn h2{
+		font-size: 18px;
+	}
+	.btn_book{
+		font-size: 16px;
+	}
+	.about_txt_cn p{
+		font-size: 15px;
+	}
+	.head_content h2 {
+	    font-size: 24px;
+	}
+	.head_content p{
+		font-size: 15px;
+	}
+	.form_find{
+		padding: 0;
+	}
+	.btn_search{
+		position: static;
+		margin-top: 10px;
+		width: 100%;
+		height: 45px;
+	}
+	.service_item_box {
+	    padding-left: 150px;
+	}
+	.service_thumb{
+		width: 150px;
+	}
+	.media_thumb{
+		height: auto !important;
+	}
+	.tabs_menu_media > li > a.nav-link{
+		padding: 12px 20px;
+		font-size: 15px;
+	}
+	.box_book_txt h2{
+		font-size: 20px;
+	}
+	.ft_menu li{
+		width: 50%;
+	}
+	.copy_right{
+		font-size: 14px;
+	}
+	.btn_submit{
+		position: static;
+		width: 100%;
+		height: 45px;
+		margin-top: 20px;
+	}
+	.box_msg{
+		padding: 0;
+	}
+	.bbk_head h2,.bk_nrmTxt h2,.title_bhd h2{
+		font-size: 20px;
+	}
+	.vission_head > p{
+		font-size: 18px;
+	}
+	.owl-carousel.album_slider .owl-nav{
+		display: none !important;
+	}
+	.owl-carousel.album_slider .owl-dots{
+		display: block !important;
+	}
+	.bbk_head .btn_prim{
+		display: none !important;
+	}
+	.btn_dt.hidden_lg{
+		display: table !important;
+	}
+	.doctor_txt > h2{
+		font-size: 16px;
+	}
+	.doctor_txt > h3{
+		font-size: 15px;
+	}
+	.btn_trans{
+		padding: 10px;
+		font-size: 16px;
+	}
+	.box_doctor_cn{
+		padding-left: 0;
+	}
+	.doctor_pic{
+		position: relative;
+		width: 100%;
+		height: auto;
+	}
+	.doctor_pic > img{
+		width: 100%;
+		height: auto;
+	}
+	.doctor_txt{
+		padding: 15px 0 0;
+	}
+	.cv_title_rw{
+		margin-bottom: 10px;
+		font-size: 15px;
+	}
+	.cv_value_rw{
+		font-size: 15px;
+	}
+	.box_doctor_prif{
+		padding-left: 0;
+	}
+	.doctor_prif_pic{
+		position: relative;
+		width: 100%;
+		height: auto;
+	}
+	.prif_title > h2, .box_doctor_subPrif h2, .head_title_cv h2 {
+	    font-size: 18px;
+	}
+	.bks_list_fet p{
+		font-size: 15px;
+	}
+	.bks_list_fet p:before{
+		background-size: 15px;
+	}
+	.news_cption > h2{
+		height: auto;
+	}
+	.news_pic,.news_cption p{
+		height: auto;
+	}
+	.news_cption{
+		padding: 20px 15px;
+	}
+	.details_news_post h2{
+		font-size: 18px;
+	}
+	.details_news_post p{
+		font-size: 15px;
+	}
+	.box_share_post{
+		padding: 20px;
+	}
+	.join_cp_txt h2{
+		font-size: 20px;
+	}
+	.vission_head{
+		padding: 40px 20px 30px;
+	}
+	.vission_head:before{
+		left: 20px;
+	}
+	.box_skin_cn{
+		padding: 30px 20px;
+	}
+	.box_join_form{
+		padding: 30px 15px;
+	}
+	.title_box_join h2{
+		font-size: 20px;
+	}
+	.logo_site > a{
+		max-width: 200px;
+	}
+	.medical_serv_txt h2{
+		font-size: 20px;
+	}
+	.back_page > a{
+		font-size: 16px;
+	}
+	.medical_serv_txt h3{
+		font-size: 18px;
+	}
+	.medical_serv_txt p,.patient_details p{
+		font-size: 15px;
+	}
+	.medical_serv_txt ul li{
+		font-size: 14px;
+	}
+	.patient_details h2{
+		font-size:18px;
+	}
+	.b_information_head h2{
+		font-size: 20px;
+	}
+	.outpatient_txt p{
+		font-size: 14px;
+	}
+}
+@media screen and (max-width: 370px) {
+	.block_menu_home .row > div.col-6 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}
+	.itm_menu{
+		padding: 15px 15px 15px 30px;
+	}
+	.service_item_box{
+		padding-left: 0;
+	}
+	.service_thumb{
+		width: 100%;
+		position: relative;
+		height: auto;
+	}
+
+}

@@ -1,0 +1,8 @@
+<svg id="hospital-bed" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Path_5474" data-name="Path 5474" d="M.5,7.5h3a2,2,0,0,1,2,2v1" fill="none" stroke="#3b8bcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="Line_58" data-name="Line 58" y1="12" transform="translate(0.5 3.5)" fill="none" stroke="#3b8bcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="Line_59" data-name="Line 59" x2="15" transform="translate(0.5 13.5)" fill="none" stroke="#3b8bcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <path id="Path_5475" data-name="Path 5475" d="M.5,10.5h15v5" fill="none" stroke="#3b8bcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="Line_60" data-name="Line 60" y2="6" transform="translate(9.5 0.5)" fill="none" stroke="#3b8bcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="Line_61" data-name="Line 61" x1="6" transform="translate(6.5 3.5)" fill="none" stroke="#3b8bcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>
